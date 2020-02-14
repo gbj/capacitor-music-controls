@@ -1,7 +1,7 @@
 {
-  "name": "capacitor-music-controls-plugin",
+  "name": "capacitor-music-controls",
   "version": "0.0.9",
-  "description": "Implementation of MusicControls for Capacitor projects",
+  "description": "Implementation of MusicControls for Capacitor projects—building Web support",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ingageco/capacitor-music-controls-plugin"
+    "url": "https://github.com/gbj/capacitor-music-controls"
   },
   "bugs": {
-    "url": "https://github.com/ingageco/capacitor-music-controls-plugin/issues"
+    "url": "https://github.com/gbj/capacitor-music-controls/issues"
   }
 }
